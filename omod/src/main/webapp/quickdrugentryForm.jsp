@@ -3,7 +3,6 @@
 <%@ include file="/WEB-INF/template/header.jsp"%>
 <openmrs:htmlInclude file="/scripts/calendar/calendar.js" />
 <openmrs:htmlInclude file="/moduleResources/@MODULE_ID@/style/stylesheet.css" />
-<openmrs:htmlInclude file="/moduleResources/@MODULE_ID@/scripts/jquery-1.3.2.js" />
 
 <script type="text/javascript">
 	var $qle= jQuery.noConflict();
