@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.openmrs.module</groupId>
 		<artifactId>quicklabdataentry</artifactId>
-		<version>0.1.2</version>
+		<version>0.1.3-SNAPSHOT</version>
 	</parent>
 	<artifactId>quicklabdataentry-omod</artifactId>
 	<packaging>jar</packaging>
